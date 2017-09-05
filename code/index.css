@@ -1,12 +1,18 @@
 body {
     padding: 30px 100px;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Athiti', sans-serif; 
     background-color: lightskyblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Pattaya', sans-serif;
 }
 
 .img-circle {
-    border-radius: 50%;
+    border-radius: 90%;
     width: 200px;
+    height: 300px;
     margin: auto;
 }
 
